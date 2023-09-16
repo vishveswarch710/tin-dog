@@ -1,1 +1,1 @@
-TinDog Starting Files
+A complete responsive website.
