@@ -1,2 +1,1 @@
-# tin-dog
-Find the one for your dog.
+TinDog Starting Files
